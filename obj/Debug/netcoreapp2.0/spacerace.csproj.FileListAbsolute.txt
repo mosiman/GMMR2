@@ -1,0 +1,11 @@
+/home/mosiman/spacerace/spacerace/bin/Debug/netcoreapp2.0/spacerace.deps.json
+/home/mosiman/spacerace/spacerace/bin/Debug/netcoreapp2.0/spacerace.runtimeconfig.json
+/home/mosiman/spacerace/spacerace/bin/Debug/netcoreapp2.0/spacerace.runtimeconfig.dev.json
+/home/mosiman/spacerace/spacerace/bin/Debug/netcoreapp2.0/spacerace.dll
+/home/mosiman/spacerace/spacerace/bin/Debug/netcoreapp2.0/spacerace.pdb
+/home/mosiman/spacerace/spacerace/obj/Debug/netcoreapp2.0/spacerace.csprojAssemblyReference.cache
+/home/mosiman/spacerace/spacerace/obj/Debug/netcoreapp2.0/spacerace.csproj.CoreCompileInputs.cache
+/home/mosiman/spacerace/spacerace/obj/Debug/netcoreapp2.0/spacerace.AssemblyInfoInputs.cache
+/home/mosiman/spacerace/spacerace/obj/Debug/netcoreapp2.0/spacerace.AssemblyInfo.cs
+/home/mosiman/spacerace/spacerace/obj/Debug/netcoreapp2.0/spacerace.dll
+/home/mosiman/spacerace/spacerace/obj/Debug/netcoreapp2.0/spacerace.pdb
